@@ -1,4 +1,4 @@
-# Web Scraping and Analyzing a Decade of NBA Player Stats
+# NBA Web Scraper Analysis
 This project focuses on web scraping and analyzing various statistics of NBA players over the past decade.
 
 ## Project Description
