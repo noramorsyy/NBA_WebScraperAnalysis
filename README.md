@@ -1,4 +1,4 @@
-# NBA Web Scraper Analysis
+# NBA Stats Decipher
 This project focuses on web scraping and analyzing various statistics of NBA players over the past decade.
 
 ## Project Description
